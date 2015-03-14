@@ -61,7 +61,7 @@
 
     // User Agreement
     <string name="uag_user_agreement_title">User Agreement</string>
-    <string name="uag_user_agreement">By clicking Sign Up, you agree to \nQ-municate <b><u>User Agreement</u></b></string>
+    <string name="uag_user_agreement">By clicking Sign Up, you agree to \nEnjoyzz <b><u>User Agreement</u></b></string>
     <string name="uag_policy_link">http://q-municate.com/agreement/</string>
 
     // Friend List
@@ -79,7 +79,7 @@
 
     // Friend Details
     <string name="frd_title">Details</string>
-    <string name="frd_default_status">I enjoy using Q-municate!</string>
+    <string name="frd_default_status">I enjoy using Enjoyzz!</string>
     <string name="frd_video_call">Video Call</string>
     <string name="frd_audio_call">Audio Call</string>
     <string name="frd_chat">Chat</string>
@@ -157,19 +157,19 @@
     <string name="afg_title">Add Friends</string>
 
     // Invite Friends
-    <string name="inf_header_label">Let your other friends know about \n Q-municate by sending them private invitations</string>
+    <string name="inf_header_label">Let your other friends know about \n Enjoyzz by sending them private invitations</string>
     <string name="inf_select_from_facebook">From Facebook</string>
     <string name="inf_select_from_contacts">From Contacts</string>
     <string name="inf_from_facebook">(invite via Facebook)</string>
     <string name="inf_from_contacts">(invite via Email)</string>
     <string name="inf_send">Send</string>
     <string name="inf_choose_email_provider">Choose an email provider:</string>
-    <string name="inf_subject_of_invitation">Q-municate</string>
-    <string name="inf_body_of_invitation">Dear friend, use Q-municate application to reach me!\nDownload it here: http://q-municate.com/</string>
+    <string name="inf_subject_of_invitation">Enjoyzz</string>
+    <string name="inf_body_of_invitation">Dear friend, use Enjoyzz application to reach me!\nDownload it here: http://Enjoyzz.com/</string>
     <string name="inf_url_to_facebook_avatar">https://graph.facebook.com/%1$s/picture?type=large</string>
-    <string name="inf_fb_wall_param_name">Q-municate</string>
-    <string name="inf_fb_wall_param_description">Dear friend, use Q-municate application to reach me!\nDownload it here: http://q-municate.com/</string>
-    <string name="inf_fb_wall_param_link">http://q-municate.com/</string>
+    <string name="inf_fb_wall_param_name">Enjoyzz</string>
+    <string name="inf_fb_wall_param_description">Dear friend, use Enjoyzz application to reach me!\nDownload it here: http://Enjoyzz.com/</string>
+    <string name="inf_fb_wall_param_link">http://Enjoyzz.com/</string>
     <string name="inf_fb_wall_param_picture">http://files.quickblox.com/ic_launcher.png</string>
     <string name="inf_fb_wall_param_place">155021662189</string>
     <string name="inf_fb_request_canceled">Request cancelled</string>
@@ -183,7 +183,7 @@
     <string name="fdb_bug_type">Bug</string>
     <string name="fdb_improvement_type">Improvement</string>
     <string name="fdb_suggestion_type">Suggestion</string>
-    <string name="fdb_support_email">q-municate@quickblox.com</string>
+    <string name="fdb_support_email">Enjoyzz@quickblox.com</string>
     <string name="fdb_choose_email_provider">Choose an email provider:</string>
     <string name="fdb_write_email">Write an Email</string>
 
@@ -212,7 +212,7 @@
     <string name="dlg_no_friends_selected">Please, select some Friends for invite!</string>
     <string name="dlg_friend_removed">You have deleted %1$s from your contacts</string>
     <string name="dlg_get_file_failed">Failed to get file from gallery</string>
-    <string name="dlg_no_friends_for_import">There are no friends in Q-municate app</string>
+    <string name="dlg_no_friends_for_import">There are no friends in Enjoyzz app</string>
     <string name="dlg_wrong_signaling">Can\'t perform call. Problem with signaling</string>
     <string name="dlg_leave_group">Leave Group</string>
     <string name="dlg_offline_call"> %1$s is calling you !</string>

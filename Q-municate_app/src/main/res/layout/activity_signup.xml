@@ -41,7 +41,7 @@
         android:onClick="changeAvatarOnClickListener"
         android:orientation="horizontal">
 
-        <com.quickblox.q_municate.ui.views.RoundedImageView
+        <com.quickblox.enjoyzz.ui.views.RoundedImageView
             style="@style/AvatarImageView"
             android:id="@+id/avatar_imageview"
             app:border_color="@color/dark_gray"

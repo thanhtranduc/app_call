@@ -37,7 +37,7 @@
                 android:paddingBottom="10dp"
                 android:paddingTop="10dp">
 
-                <com.quickblox.q_municate.ui.views.RoundedImageView
+                <com.quickblox.enjoyzz.ui.views.RoundedImageView
                     style="@style/AvatarImageView"
                     android:id="@+id/avatar_imageview"
                     android:duplicateParentState="true"

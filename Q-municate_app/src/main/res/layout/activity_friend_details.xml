@@ -14,7 +14,7 @@
         android:orientation="horizontal"
         android:paddingBottom="10dp">
 
-        <com.quickblox.q_municate.ui.views.RoundedImageView
+        <com.quickblox.enjoyzz.ui.views.RoundedImageView
             android:id="@+id/avatar_imageview"
             style="@style/AvatarImageView"
             android:layout_marginLeft="15dp"

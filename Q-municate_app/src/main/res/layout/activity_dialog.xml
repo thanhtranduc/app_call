@@ -23,7 +23,7 @@
 
     <fragment
         android:id="@+id/emojicons_fragment"
-        class="com.quickblox.q_municate.ui.chats.emoji.EmojiFragment"
+        class="com.quickblox.enjoyzz.ui.chats.emoji.EmojiFragment"
         android:layout_width="match_parent"
         android:layout_height="250dp" />
 

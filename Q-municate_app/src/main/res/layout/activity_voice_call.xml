@@ -36,7 +36,7 @@
 
         </LinearLayout>
 
-        <com.quickblox.q_municate.ui.views.RoundedImageView
+        <com.quickblox.enjoyzz.ui.views.RoundedImageView
             android:id="@+id/avatar_imageview"
             style="@style/AvatarImageView"
             android:layout_width="@dimen/act_call_avatar_size"

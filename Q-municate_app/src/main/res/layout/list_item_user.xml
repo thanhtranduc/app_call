@@ -12,7 +12,7 @@
         android:layout_toLeftOf="@+id/addFriendButton"
         android:padding="10dp">
 
-        <com.quickblox.q_municate.ui.views.RoundedImageView
+        <com.quickblox.enjoyzz.ui.views.RoundedImageView
             style="@style/AvatarImageView"
             android:layout_width="@dimen/image_view_small_avatar_layout_width"
             android:layout_height="@dimen/image_view_small_avatar_layout_height"
